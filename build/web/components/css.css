@@ -1,0 +1,110 @@
+.formInputs {
+    margin-left: 30%;
+    margin-right:30%;
+    width: 40%;
+}
+h1
+{
+    text-align: center;
+}
+.btnConf
+{
+    text-align: center;
+    width: 100%;
+}
+.msg
+{
+    text-align: center;
+}
+
+.divButtons
+{
+    text-align: center;
+}
+
+#cont
+{
+    border-top: 2px groove  blue;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 20px;
+}
+
+#cardBorder
+{
+    max-width: 20rem;
+    margin-top: 40px;
+    box-shadow: 10px 10px 20px #888888;
+}
+
+#cardHeader
+{
+    padding: 0;
+}
+
+#image
+{
+    height: 250px;
+    width: 100%
+}
+
+#prodTitle
+{
+    text-align: center;
+}
+
+#contMsg
+{
+    text-align: center;
+}
+
+.img-thumbnail
+{
+    width: 250px;
+    height: 250px;
+}
+
+.table tbody td
+{
+    vertical-align: middle;
+}
+.btn-incre, .btn-decre
+{
+    box-shadow: none;
+    font-size: 30px;
+}
+
+#msg
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#uploadPreview
+{
+    width: 300px;
+    height: 300px;
+}
+
+#imgPreview
+{
+    width: 300px;
+    height: 300px;
+}
+
+#orderSuccess
+{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+
+
+
+
+
+
+
